@@ -29,3 +29,5 @@
 
 # DynamoDB Local files
 .dynamodb/
+
+node_modules/
